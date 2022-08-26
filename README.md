@@ -1,27 +1,49 @@
-# ProjetoAngular
+# Projeto Angular 📋
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
+Projeto desenvolvido através do consumo de uma API para uma página de registro de acontecimentos.
+Tecnologias utilizadas: Node e Angular
 
-## Development server
+-----------------------------------------------------------------
+# Angular 📋
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Angular é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript liderado pela Equipe Angular do Google e por uma comunidade de indivíduos e corporações.
 
-## Code scaffolding
+-----------------------------------------------------------------
+# Node 📋
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+-----------------------------------------------------------------
 
-## Running unit tests
+## ↘️ Cadastro de Momentos
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<img src="./preview/1.JPG" alt="banner" height="425"> <br/>
 
-## Running end-to-end tests
+<img src="./preview/1.1.JPG" alt="banner" height="425"> <br/>
+-----------------------------------------------------------------
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 🔀 Sobre
 
-## Further help
+<img src="./preview/2.JPG" alt="banner" height="425"> <br/>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+-----------------------------------------------------------------
+
+## ✅ Formulário de Cadastro
+
+<img src="./preview/3.JPG" alt="banner" height="425"> <br/>
+
+-----------------------------------------------------------------
+
+## ✅ Detalhes 
+
+<img src="./preview/4.JPG" alt="banner" height="425"> <br/>
+
+-----------------------------------------------------------------
+
+## ✅ Página de Edição
+
+<img src="./preview/5.JPG" alt="banner" height="425"> <br/>
+
+-----------------------------------------------------------------
+
