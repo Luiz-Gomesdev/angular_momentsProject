@@ -8,7 +8,7 @@ import { Moment } from 'src/app/Moment';
   styleUrls: ['./moment-form.component.css']
 })
 export class MomentFormComponent implements OnInit {
-  @Output() onSubmit = new EventEmitter<Moment>()
+  @Output() onSubmit = new EventEmitter<Moment>();
   @Input() btnText!: string;
 
   @Input() momentData: Moment | null = null;

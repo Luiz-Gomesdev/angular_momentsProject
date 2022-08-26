@@ -9,6 +9,7 @@ a {
   text-decoration: none;
   color: white;
   transition: .4s;
+
 }
 
 a:hover {
@@ -39,6 +40,7 @@ form {
   padding: 0.6em;
   color: #777;
   font-size: 0.8em;
+
 }
 
 input[type="submit"] {
@@ -63,4 +65,43 @@ input[type="submit"]:hover {
   border-left: 3px solid #cd3545;
   padding-left: 0.2em;
   font-size: 12px;
+}
+
+.edit-btn,
+.remove-btn {
+  border: 1px solid #EFEFEF;
+  padding: .5em .5em;
+  font-size: 1em;
+  margin: 0 .5em;
+  cursor: pointer;
+  background-color: #FFF;
+  transition: 0.4s;
+}
+
+button fa-icon,
+a fa-icon {
+  margin-right: 0.2em;
+}
+
+.edit-btn,
+.edit-btn path {
+  border-color: #007BFF;
+  color: #007BFF;
+}
+
+.edit-btn:hover,
+.edit-btn:hover path {
+  color: #fff;
+  background-color: #007BFF;
+}
+
+.remove-btn,
+.remove-btn path{
+  color: #dc3545;
+  border-color: #dc3545;
+}
+.remove-btn:hover,
+.remove-btn:hover path{
+  color: #fff;
+  background-color: #dc3545;
 }
